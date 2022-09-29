@@ -1,0 +1,7 @@
+.card__subtitle {
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
+  margin: 16px 0 0;
+  width: 226px;
+  text-align: center;
+}
